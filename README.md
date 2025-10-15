@@ -48,6 +48,3 @@ We worked with two datasets:
 - Jupyter Notebook
 - Statistical and econometric methods
 
----
-
-## 📁 Project Structure
